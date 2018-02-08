@@ -1,0 +1,2 @@
+1. Vector-luokassa alkioita voi käyttää, muokata, lisätä ja poistaa mielivaltaisesta sijainnista riippumatta siitä, kuinka mones alkio on listassa on.
+Arraylist

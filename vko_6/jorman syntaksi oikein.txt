@@ -1,0 +1,13 @@
+public class Testi  
+{ 
+ public static void main (String[] args)
+{  
+  Henkilo sinä = new Henkilo(Pekka, Turku);
+  sinä.syntVuosi = 1980; 
+  System.out.println(sinä.nimi); 
+  Henkilo uusi; 
+  uusi.setOsoite = "Helsinki"; 
+  Henkilö toinen = new Henkilo(); 
+  System.out.println(toinen.getSyntVuosi()); 
+ } 
+}

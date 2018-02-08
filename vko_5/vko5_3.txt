@@ -1,0 +1,8 @@
+1. luodaan perustyyppinen(int) lista
+2. luodaan tyhjä oliotyyppinen(Vector<Integer>) lista
+2. kopioidaan perustyyppisen listan sisältö oliotyyppisen listaan
+3. metodi lajittele suoritetaan parametreinaan oliotyyppinen lista
+4. luodaan uusi tyhjä oliotyyppinen (Vector<Integer>) lista result
+5. Lajiteltavan listan alkiot käydään läpi for-silmukassa ja kukin alkio elem lisätään listaan result oikealle paikalleen käyttäen metodia haePaikka, joka palauttaa ensimmäisen elem:iä suuremman alkion.
+6. listan result sisältö tallennetaan listaan lajiteltulista
+7. listan lajiteltulista sisältö tulostetaan niin, että alkioiden väliin lsätään ...
